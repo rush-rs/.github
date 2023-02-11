@@ -10,7 +10,7 @@ execution and compilation.
 
 ## Demo: Calculation of Fibonacci Numbers
 
-![calculation of Fibonacci numbers in rush](../fib/fib.png)
+![calculation of Fibonacci numbers in rush](https://raw.githubusercontent.com/rush-rs/.github/main/fib/fib.png)
 
 ## Projects Which Are Part of rush
 
