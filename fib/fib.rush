@@ -1,0 +1,15 @@
+fn main() {
+    // fib(10) = 55
+    exit(fib(10))
+}
+
+fn fib(n: int) -> int {
+    if n < 2 {
+        n
+    } else {
+        fib(n - 2) + fib(n - 1)
+    }
+}
+
+
+
