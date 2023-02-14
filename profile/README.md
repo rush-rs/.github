@@ -1,6 +1,6 @@
 # The rush Programming Language
 
-![the rush logo](https://raw.githubusercontent.com/rush-rs/rush/main/logo/rush_logo_bg.svg)
+![the rush logo](https://raw.githubusercontent.com/rush-rs/rush/main/logo/rush_logo_outline.svg)
 
 A simple programming language for researching different ways of program
 execution and compilation.
