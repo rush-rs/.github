@@ -62,3 +62,11 @@ history of paper can be found at the below git repository.
 - [Rush Website](https://rush-lang.de)
 - [Rush Playground](https://play.rush-lang.de)
 - [Rush Paper](https://paper.rush-lang.de)
+
+## Getting Started
+
+If you want to get started with using the rush language, there are two possible
+ways:
+
+- Using the rush playground at [play.rush-lang.de](https://play.rush-lang.de)
+- Installing the [rush CLI](https://github.com/rush-rs/rush/tree/main/crates/rush-cli)
