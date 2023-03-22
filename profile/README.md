@@ -62,3 +62,4 @@ history of paper can be found at the below git repository.
 - [Rush Website](https://rush-lang.de)
 - [Rush Playground](https://play.rush-lang.de)
 - [Rush Paper](https://paper.rush-lang.de)
+- [Sample Files & Tests](https://github.com/rush-rs/rush/tree/main/samples/tests)
