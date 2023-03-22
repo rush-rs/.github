@@ -1,6 +1,6 @@
 # The rush Programming Language
 
-![the rush logo](https://raw.githubusercontent.com/rush-rs/rush/main/logo/rush_logo_bg.svg)
+![the rush logo](https://raw.githubusercontent.com/rush-rs/rush/main/logo/rush_logo_outline.svg)
 
 A simple programming language for researching different ways of program
 execution and compilation.
@@ -10,7 +10,7 @@ execution and compilation.
 
 ## Demo: Calculation of Fibonacci Numbers
 
-![calculation of Fibonacci numbers in rush](../fib/fib.png)
+![calculation of Fibonacci numbers in rush](https://raw.githubusercontent.com/rush-rs/.github/main/fib/fib.png)
 
 ## Projects Which Are Part of rush
 
@@ -63,3 +63,11 @@ history of paper can be found at the below git repository.
 - [Rush Playground](https://play.rush-lang.de)
 - [Rush Paper](https://paper.rush-lang.de)
 - [Sample Files & Tests](https://github.com/rush-rs/rush/tree/main/samples/tests)
+
+## Getting Started
+
+If you want to get started with using the rush language, there are two possible
+ways:
+
+- Using the rush playground at [play.rush-lang.de](https://play.rush-lang.de)
+- Installing the [rush CLI](https://github.com/rush-rs/rush/tree/main/crates/rush-cli)
