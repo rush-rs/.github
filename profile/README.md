@@ -40,7 +40,7 @@ history of paper can be found at the below git repository.
 
 ### Compilers
 
-- [WASM Compiler](https://github.com/rush-rs/rush/tree/main/crates/rush-compiler-wasm)
+- [Wasm Compiler](https://github.com/rush-rs/rush/tree/main/crates/rush-compiler-wasm)
 - [LLVM Compiler](https://github.com/rush-rs/rush/tree/main/crates/rush-compiler-llvm)
 - [RISC-V Compiler](https://github.com/rush-rs/rush/tree/main/crates/rush-compiler-risc-v)
 - [x86_64 Compiler](https://github.com/rush-rs/rush/tree/main/crates/rush-compiler-x86-64)
